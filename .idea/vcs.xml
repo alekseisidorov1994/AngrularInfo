@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular-form-pipe-validator" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular-http" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular-module" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Angular-routing" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Ngmodel/angular-basics" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/angular-ajax" vcs="Git" />
+  </component>
+</project>
